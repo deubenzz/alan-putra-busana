@@ -2,7 +2,7 @@
   "name": "Dasbor Produksi - Alan Putra Busana",
   "short_name": "Dasbor APB",
   "description": "Aplikasi Dasbor Produksi untuk Alan Putra Busana.",
-  "start_url": ".",
+  "start_url": "https://alanputrabusana.cisaga.web.id/",
   "display": "standalone",
   "background_color": "#f3f4f6",
   "theme_color": "#2563eb",
